@@ -1,1 +1,2 @@
 # Credit-Risk-Analysis
+> The purpose of the analysis is to develop a model to predict credit risk associated with the loan using the dataset provided. We are using the machine learning models to reduce any bias associated with the analysis using the Balanced Random Forest Classifier and Easy Ensemble Classifier model algorithms to predict the credit risk. The Imbalanced learn and Scikit learn libraries are used for this analysis.
